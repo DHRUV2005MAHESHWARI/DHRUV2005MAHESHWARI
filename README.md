@@ -17,7 +17,7 @@
         <a style="margin-left: 10px;"  target="_blank"  href="https://www.linkedin.com/in/dhruv-maheshwari-5b8a94266/">
    <img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
         <a style="margin-left: 10px;" target="_blank" href="https://github.com/DHRUV2005MAHESHWARI">
-        <a style="margin-left: 10px;" target="_blank" href="https://www.instagram.com/dhruv_maheshwari_2005~/">
+        <a style="margin-left: 10px;" target="_blank" href="https://www.instagram.com/dhruv_maheshwari_2005/">
    <img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png"></a>
   <a style="margin-left: 10px;" target="_blank" href="https://twitter.com/Dhruvx_m">
    <img src="https://img.icons8.com/doodle/1x/twitter-squared--v2.png" ></a>
